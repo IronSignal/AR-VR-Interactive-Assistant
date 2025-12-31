@@ -1,2 +1,2 @@
-# ThreatSleuth
-A Python-based tool that automatically scans suspicious files and URLs against malware databases and sandbox environments, providing actionable threat intelligence reports.
+# AR-VR-Assistant
+Immersive assistant for AR/VR applications with voice/NLP query handling, contextual guidance, gesture-triggered actions, and real-time data overlays to enhance user experience.
